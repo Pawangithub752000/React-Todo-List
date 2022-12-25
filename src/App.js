@@ -41,7 +41,7 @@ function App() {
        <p className="no-item-text">No Task Added !</p>}
        
       </div>
-      <p className="footer-text">Pawan Prajapati</p>
+      <p className="footer-text">Developer Er. Pawan Kumar</p>
     </div>
   );
 
