@@ -20,8 +20,8 @@ function App() {
 
   const markComplete = (index) => {
     const list = [...toDoList]; // copy all toDolist in list
-    list[index].isComplete = true; // hard code
-    
+    // list[index].isComplete = true; // hard code
+    list[index].isComplete = !list[index].isComplete;
     updateToDoList(list)
   }
 
