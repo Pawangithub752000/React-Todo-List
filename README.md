@@ -10,3 +10,6 @@ Designing the UI i.e. Game board using JSX and CSS.
 Used React Hooks to manage the state of the application.
 
 Worked with conditional rendering and list iterations.
+
+
+
